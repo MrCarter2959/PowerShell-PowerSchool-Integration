@@ -23,7 +23,7 @@
     Date: 2/6/2018
     Modified: Carter Sema 2/6/2018
 
-.EXAMPLES
+.EXAMPLE
     
     
     The Query below uses the -SQLQuery Parameter so it uses the supplied SQL Query
