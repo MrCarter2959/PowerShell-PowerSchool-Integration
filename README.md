@@ -17,3 +17,4 @@ WORKING ON:
   3. Publishing to PowerShell Repository's for easier installation.
   4. More Examples / use cases to show how it can be used.
   5. Possible ConnectionString Variables to allow for dynamic ConnectionString building
+  6. Photos of examples and gif's
